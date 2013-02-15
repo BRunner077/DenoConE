@@ -281,7 +281,7 @@ public class DenoCon {
 
         // Open image button
         Button buttonOpenFile = new Button(shell, SWT.PUSH);
-        buttonOpenFile.setText("Open image file");
+        buttonOpenFile.setText("Open JPG file");
 
         layoutData = new GridData(100, 30);
         buttonOpenFile.setLayoutData(layoutData);
