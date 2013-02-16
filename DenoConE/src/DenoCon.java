@@ -28,6 +28,7 @@ public class DenoCon {
     private static int matrixSize = 3;
     private static Text[][] inputMatrix = null;
     private static int[][] convMatrix = null;
+    private static int test = 0;
 
     public static void main(String[] args) {
 
